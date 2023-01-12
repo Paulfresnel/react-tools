@@ -1,5 +1,5 @@
-import jsonProducts from '../products.json' 
-import ListedProduct from './ListedProduct/ListedProduct'
+import jsonProducts from '../../products.json' 
+import ListedProduct from '../ListedProduct/ListedProduct'
 
 
 function ProductsList(props){

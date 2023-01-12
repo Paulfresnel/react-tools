@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import ProductsList from './components/ProductsList';
+import ProductsList from './components/ProductsList/ProductsList.jsx';
 import {useState, React} from 'react';
 import CartList from './components/CartList/CartList';
 
