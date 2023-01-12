@@ -1,0 +1,20 @@
+.flex{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.product-card{
+    width: 250px;
+    border: 1px black solid;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 25px 10px 25px;
+    margin: 0px 50px 0px 50px;
+}
+
+.small-image{
+    width: 200px;
+}
